@@ -1,0 +1,11 @@
+{
+    "name": "auto-updater",
+    "module": "updater.js",
+    "type": "module",
+    "scripts": {
+        "start": "node updater.js"
+    },
+    "dependencies": {
+        "axios": "^1.7.8"
+    }
+}
